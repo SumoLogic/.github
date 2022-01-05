@@ -23,6 +23,6 @@ All of the repositories in this organization have full Sumo Logic support. To ge
 
 ## Community projects
 
-We also maintain the [incubator organization][incubator-link] for all the community supported projects.
+We also maintain the [labs organization][labs-link] for all the community supported projects.
 
-[incubator-link]: https://github.com/SumoLogic-Incubator
+[labs-link]: https://github.com/SumoLogic-Labs
