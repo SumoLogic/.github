@@ -16,7 +16,7 @@ This organization is the home for `Sumo Logic-supported open source projects` th
 
 ## Support
 
-All of the repositories in this organization have full Sumo Logic support. To get help, please go to our [Knowledge Base][kt-base-link] or create an issue directly in the [repositories][gh-org-repos].
+All of the repositories in this organization have full Sumo Logic support. To get help, please go to our [Knowledge Base][kt-base-link], [Documentation](https://help.sumologic.com/), or create an issue directly in the [repositories][gh-org-repos].
 
 [kt-base-link]: https://support.sumologic.com/hc/en-us
 [gh-org-repos]: https://github.com/orgs/SumoLogic/repositories
